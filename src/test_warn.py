@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timezone
 
-WEBHOOK_URL = "https://latt3.app.n8n.cloud/webhook-test/drone-detection"
+WEBHOOK_URL = "https://latt3.app.n8n.cloud/webhook/drone-detection"
 
 def send_detection(confidence: float, location: str) -> None:
     payload = {
