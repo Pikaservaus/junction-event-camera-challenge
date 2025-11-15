@@ -7,11 +7,11 @@ This project allows drone position and trajectory prediction with the usage of e
 To run the code, use the following command:
 
 ```bash
-python <script_path> <dat_file_path>
+python <main.py_file_path> <dat_file_path>
 ```
 
 ## Requirements
-You need to have the `evio` packages in your virtual environment's site packages to run the script. You can get it from GitHub [here](https://github.com/ahtihelminen/evio.git).
+You need to have the `evio` packages in your virtual environment's site packages to run the script. You can get it from [here](https://github.com/ahtihelminen/evio.git).
 ## Installation
 
 To set up your environment, follow these steps:
