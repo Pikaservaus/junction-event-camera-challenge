@@ -18,5 +18,10 @@ def send_detection(confidence: float, location: str) -> None:
         print(f"Request failed: {e}")
 
 if __name__ == "__main__":
+    n=0
+
     # Example detection payload
+    #high level confidence detection algorithm
+    #gps location tracking
     send_detection(0.95, "backyard")
+    n +=1 
