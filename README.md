@@ -1,4 +1,6 @@
 # junction-event-camera-challenge
+16/11/2025
+By: Oiva Kunnamo, Nikolas Juhava & Atte Laakso
 
 ## Purpose
 This project allows drone position and trajectory prediction with the usage of event camera data.
